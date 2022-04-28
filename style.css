@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  border: 8px purple dashed;
+  background-color: gray;
+}
+
+header {
+  font-family: fantasy;
+  color: rgb(128, 0, 128);
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
